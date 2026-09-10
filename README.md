@@ -11,7 +11,7 @@ The website presents Evermore's services, product categories, sustainability com
 ## 🌐 Live Website
 
 **Evermore Sourcing:**
-https://evermorebrand.com](https://sourcing.evermorebrand.com/
+https://sourcing.evermorebrand.com/
 
 ---
 
