@@ -301,7 +301,7 @@ The website was designed to:
 **Evermore Sourcing**
 
 Website:
-https://evermorebrand.com](https://sourcing.evermorebrand.com/
+https://evermorebrand.com
 
 Email:
 
